@@ -266,7 +266,6 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -861,4 +860,15 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+header .container {
+    padding: 0px;
+    margin: 0px;
+}
+video#bgvid {
+    position: relative; right: 0; bottom: 0;
+    width: 100%; z-index: -100;
+    background: url(../img/header-bg.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
 }
