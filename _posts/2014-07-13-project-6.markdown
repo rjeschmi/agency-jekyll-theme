@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Service Type 1
+subtitle: Some Cell Thing
 layout: default
 modal-id: 6
 date: 2014-07-15

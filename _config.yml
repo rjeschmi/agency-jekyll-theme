@@ -18,20 +18,16 @@ people:
   pic: 1
   position: Senior Scientist
 
-- name: Larry Parker
+- name: Theodore Perkins
   pic: 2
-  position: Lead Marketer
+  position: Director Bioinformatics
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Lynn Megeney
   pic: 3
-  position: Lead Developer
+  position: Senior Scientist
   social:
     - title: twitter
       url: #
